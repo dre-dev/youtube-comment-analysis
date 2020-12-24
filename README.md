@@ -14,7 +14,7 @@ Part 7 - https://youtu.be/9ON1ZJV4K_s
 This project works by scraping YouTube comments and identify the sentiment of comments.
 We concepting the whole project from orange first, and we finalize all the codes in jupyter notebook directly.
 
-Our goal: we hope we can apply sentiment analys (indonesian language) in youtube comments
+Our goal: I hope we can apply sentiment analys (indonesian language) in youtube comments
 
 
 ## Prerequisite :
